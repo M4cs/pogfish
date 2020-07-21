@@ -5,7 +5,7 @@
 Download stockfish and place it in your PATH or the folder. Replace the line `F:\\pogfish\\stockfish....` with the path to stockfish.
 
 ```
-pip install pystockfish pychess
+pip install pystockfish python-chess
 ```
 
 ### Running It
